@@ -11,4 +11,7 @@ It's natural to feel overwhelmed and unsure where to begin. Not to worry, throug
 
 Let's get started!
 
+Repo autocommited with __LeetSync__ expansion for Google Chrome
+
+#### https://chromewebstore.google.com/detail/leetsync-leetcode-to-gith/ppkbejeolfcbaomanmbpjdbkfcjfhjnd
 
