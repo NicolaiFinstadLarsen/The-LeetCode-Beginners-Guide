@@ -10,6 +10,6 @@ class Solution:
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
-            print(f"Fast {fast}")
-            print(f"Slow {slow}")
+            #print(f"Fast {fast}")
+            #print(f"Slow {slow}")
         return slow 
