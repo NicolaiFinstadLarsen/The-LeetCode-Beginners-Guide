@@ -17,5 +17,7 @@ class Solution:
         
         return True
 
+
+# I could use the Counter method from the Collections lib. But I dont know it well yet.
             
         
