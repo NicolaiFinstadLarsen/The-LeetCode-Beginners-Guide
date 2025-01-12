@@ -1,8 +1,10 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
 
+        # If the ransomNote is longer than magazine, we cannot make the ransomNote
         if len(ransomNote) > len(magazine):
             return False
+
         # Initialize a dictionary
         hash_set = {}
         for c in magazine:
